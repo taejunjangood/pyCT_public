@@ -1,0 +1,2 @@
+void funcParallelBeam(float* detector_array, float* object_array, float* transformation, int nx, int ny, int nz, int nu, int nv, int nw, int na);
+void funcConeBeam    (float* detector_array, float* object_array, float* transformation, int nx, int ny, int nz, int nu, int nv, int nw, int na, float su, float sv, float* ou, float* ov, float* oa, float s2d, float near, float far);

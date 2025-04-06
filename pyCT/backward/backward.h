@@ -1,0 +1,2 @@
+void funcParallelBeam(float* reconstruction_array, float* sinogram_array, float* transformation, int nx, int ny, int nz, int nu, int nv, int na);
+void funcConeBeam    (float* reconstruction_array, float* sinogram_array, float* transformation, int nx, int ny, int nz, int nu, int nv, int na, float su, float sv, float du, float dv, float* ou, float* ov, float* oa, float s2d);

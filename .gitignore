@@ -1,3 +1,6 @@
+pyCT/backward/*.cpp
+pyCT/forward/*.cpp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
